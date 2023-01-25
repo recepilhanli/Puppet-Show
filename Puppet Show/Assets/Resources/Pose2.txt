@@ -1,0 +1,15 @@
+Head_1: 63
+LLeg2_1: 215
+LLeg_1: 81
+LFoot_1: 277
+RFoot_1: 83
+RLeg_1: 240
+RLeg2_1: 16
+Lower_1: 193
+Body_1: 74
+LArm_1: 200
+LArm2_1: 294
+LHand_1: 339
+RHand_1: 359
+RArm2_1: 349
+RArm_1: 38
